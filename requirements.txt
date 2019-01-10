@@ -3,9 +3,9 @@ pymysql
 selenium
 PyQt5
 PyInstaller
-PIL
+Pillow
 numpy
-cv2
+opencv-python
 xlsxwriter
 requests
 geoip2
