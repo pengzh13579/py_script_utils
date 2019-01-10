@@ -1,5 +1,16 @@
+beautifulsoup4
+pymysql
+selenium
+PyQt5
+PyInstaller
+PIL
+numpy
+cv2
+xlsxwriter
+requests
+geoip2
 colorama
 jieba
 matplotlib
 wordcloud
-
+str
